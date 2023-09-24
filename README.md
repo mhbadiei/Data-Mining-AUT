@@ -1,4 +1,4 @@
-# Data Mining Exercises Repository
+# Data Mining Exercises and Solutions Repository
 
 Welcome to the Data Mining Exercises repository! This repository contains a collection of exercises and questions related to data mining and machine learning concepts. These exercises are designed to help you understand and practice various aspects of data mining, from fundamental concepts to practical implementation.
 
@@ -16,7 +16,7 @@ Welcome to the Data Mining Exercises repository! This repository contains a coll
 
 2. Navigate to the specific exercise folder you want to work on (e.g., `Exercise1`, `Exercise2`, or `Exercise3`).
 
-3. Read the questions provided in each exercise's README.md file.
+3. Read the questions provided in each exercise's pdf file.
 
 4. Implement your solutions to the exercises, and add your code to the respective folders.
 
